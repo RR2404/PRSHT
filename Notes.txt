@@ -1,0 +1,15 @@
+-Install Redis steps
+
+
+
+Swagger open URL :-- http://localhost:8080/swagger-ui/index.html
+--Roles
+role=1 //Headmaster
+role=2 //Teacher
+role=3 //Special educator
+
+##branches
+1.code-modify
+2.session-based
+3.redis-sk
+4.login-features
